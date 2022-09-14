@@ -1,7 +1,4 @@
 body {
   background-color:#CBC3E3;
-}
-
-form {
-  font-weight:bold;
+  background-image:linear-gradient(to bottom right,purple,gold,purple)
 }
